@@ -7,3 +7,12 @@
 * Registered in Coding Ninja's SDE Challenge Event.
 * Created a Git repository. [Click Here !](https://github.com/Sarvesh069/Strivers_SDE_Sheet-60Challenge)
 
+### Day 1
+* Set Matrix Zero - Brute Force Approach 
+ - Couldnt find time due to Office (Monday blues)
+
+**Target for Day 2**
+*   Set Matrix Zero
+*   Pascal's Triangle
+*   Next Permutation
+*   Kadane's Algorithm
