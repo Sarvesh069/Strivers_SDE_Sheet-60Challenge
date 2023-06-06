@@ -16,3 +16,16 @@
 *   Pascal's Triangle
 *   Next Permutation
 *   Kadane's Algorithm
+
+### Day 2
+    * Set Matrix Zero - Better (self) and Optimal
+    * Kadane's Algorithm
+    * Array Easy problems (not in SDE Sheet) 
+**Target set for Day 2 : Couldn't complete**
+
+**Target for Day 3**
+* Pascal's Triangle
+* Next Permutation
+* Sort an array of 0's,1's and 2's
+
+*Hoping to complete it successfully*
